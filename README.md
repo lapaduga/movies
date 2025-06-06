@@ -14,3 +14,9 @@ pnpm dev
 bun dev
 ```
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## What Will You See
+This app shows the list of movies which can be sorted by alphabet or release year.
+You can filter movies by genre and year.
+Every click on checbox or change of select value changes query-string that applies this filter also after page reload.
+This app also has pagination.
